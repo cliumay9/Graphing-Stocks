@@ -1,2 +1,2 @@
 # Graphing-Stocks
-PythonCode to grph Stocks with the APIs from yahoo
+PythonCode to graph Stocks with the APIs from yahoo
